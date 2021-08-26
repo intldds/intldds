@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @intldds
-- 🌱  Currently learning Solidity, rollups, zkp & security practices
+- 🌱  Currently learning Solidity, zkps & security practices
 
 <!---
 intldds/intldds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - recursive/autonomous wrlds
 - learning rust
-- applied cryptography meets game design (?)
+- applied cryptography meets protocol/game design (?)
 
 <!---
 intldds/intldds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

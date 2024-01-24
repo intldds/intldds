@@ -1,4 +1,4 @@
-- applied/programmable cryptography
+- applied/programmable cryptography (zk/MPC/FHE/witness encryption/etc)
 - "permissionless interoperability"
 - learning rust
 
